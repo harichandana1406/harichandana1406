@@ -1,9 +1,5 @@
-### Hi there 👋, I'm HariChandana ✨
-
-<!--
-**harichandana1406/harichandana1406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<h1 align="center">Hi there 👋, I'm HariChandana ✨</h1>
+<h3 align="center">Computer Science Engineering undergrad from VIT University | Data Science enthusiast | Interested in Coding </h3>
 
 - 🔭 I’m currently working on Data Science and OpenCV projects
 - 🌱 I’m currently learning Mobile app development,AI and Web Technologies
@@ -13,4 +9,4 @@ Here are some ideas to get you started:
 - 📄 My Personal Portfolio : https://harichandana.netlify.app/
 - 💬 Ask me about Data Structures,Data Analytics,Databases,Programming languages like Java, Python, R and SQL
 - 🔸 Email: Srikurmum.harichandana@gmail.com
--->
+
