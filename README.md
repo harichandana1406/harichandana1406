@@ -39,6 +39,6 @@ I'm a full-stack developer with a strong foundation in cloud-native architecture
 
 ## 📱 Connect With Me
 - **Email**: [sharichandana14@gmail.com](mailto:sharichandana14@gmail.com)
-- **LinkedIn**: [linkedin.com/in/harichandana](https://linkedin.com/in/harichandana)
+- **LinkedIn**: [linkedin.com/in/srikurmum-harichandana](https://www.linkedin.com/in/srikurmum-harichandana/)
 - **GitHub**: [github.com/harichandana1406](https://github.com/harichandana1406)
 - **Portfolio**: [Check out my portfolio website](http://localhost:3000)
